@@ -67,7 +67,7 @@ const config = {
         title: 'Maldo in tech',
         logo: {
           alt: 'Maldo in tech',
-          src: 'img/logo.svg',
+          src: 'img/yo.jpg',
         },
         items: [
           {

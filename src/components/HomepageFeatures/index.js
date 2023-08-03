@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Individual Contributor',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/ic.svg').default,
     description: (
       <>
         I primarily develop in Python, but I've also coded in Java, Node.js, C++, and unfortunately, PHP. However, my focus is on cloud technology, and I've been primarily working with AWS and Cloudflare.
@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'Engineering Manager',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/em.svg').default,
     description: (
       <>
         I've managed people, teams and tribes. My focus is always to enable teams to deliver value to customers, while keeping a healthy developer experience.
@@ -23,7 +23,7 @@ const FeatureList = [
   },
   {
     title: 'Curious by nature',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/curiosity.svg').default,
     description: (
       <>
         While I love software development, I'm an eager learner with a passion for history and finance.

@@ -1,8 +1,9 @@
 ---
-slug: welcome
+slug: welcome-1
 title: Welcome
-authors: [slorber, yangshun]
+authors: [maldo]
 tags: [facebook, hello, docusaurus]
+draft: true
 ---
 
 [Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).

@@ -32,6 +32,10 @@ const config = {
     locales: ['en'],
   },
 
+  customFields: {
+    name: 'Maldo',
+  },
+
   presets: [
     [
       'classic',

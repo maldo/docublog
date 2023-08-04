@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Maldo in tech',
+  title: 'Maldo in Tech',
   tagline: 'I build things and write about it',
   favicon: 'img/favicon.ico',
 
@@ -64,9 +64,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Maldo in tech',
+        title: 'Maldo in Tech',
         logo: {
-          alt: 'Maldo in tech',
+          alt: 'Maldo in Tech',
           src: 'img/yo.jpg',
         },
         items: [

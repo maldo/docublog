@@ -116,6 +116,7 @@ You can add a `CNAME` record to the ```https://<my-distribution-id>.cloudfront.n
 Next step, requesting those certificates, in order to to that go to [AWS Certificate Manager (ACM)](https://us-east-1.console.aws.amazon.com/acm/home?region=us-east-1#/certificates/list).
 Request a public certificate, click Next, once in the following page add your domain `mycooldomain.com` and `*.mycooldomain.com`, if you can choose the DNS validation otherwise email will be enough. Click `Request` and wait (it will take time)
 Meanwhile, the Certifice is in a Pending state, go inside it will tell you to create some Route 53 records, go for them!
+Once they are Issued, you can select the certificate from the Cloudfront distribution. With that you can navigate to `https://mycooldomain.com` and your certificate will in place.
 
 ## IAM and User
 Navigate to IAM, Users and `Add user`. We don't need to use Identity Center, we just want programatic access. Auto generated the password and don't give the user any policy.

@@ -2,7 +2,7 @@
 slug: create-blog-the-easy-way
 title: How to create a blog with a couple of clicks
 authors: maldo
-tags: [blog, Jamstack, AWS, Github, S3, Cloudfront, Route 53, IAM]
+tags: [blog, Jamstack, AWS, Amplify, Vercel, Cloudfare]
 ---
 
 In a previous [blog post](../2023-01-05-create-blog-hard-way/index.md), we talked on how to create a blog and deploy it using Github Actions and several services of AWS (S3, Cloudfront, Route 53, IAM). While you can get a lot of practice doing it yourself, there are some easy ways to deploy a blog (or almost anything).
